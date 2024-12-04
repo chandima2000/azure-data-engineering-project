@@ -1,0 +1,52 @@
+[
+    {
+        "dyn_rela_git_url" : "chandima2000/azure-data-engineering-project/refs/heads/main/datasets/AdventureWorks_Product_Categories.csv",
+        "dynamic_directory" : "AdventureWorks_Product_Categories",
+        "p_sink_file" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "dyn_rela_git_url" : "chandima2000/azure-data-engineering-project/refs/heads/main/datasets/AdventureWorks_Calendar.csv",
+        "dynamic_directory" : "AdventureWorks_Calendar",
+        "dynamic_file_name" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "dyn_rela_git_url" : "chandima2000/azure-data-engineering-project/refs/heads/main/datasets/AdventureWorks_Customers.csv",
+        "dynamic_directory" : "AdventureWorks_Customers",
+        "dynamic_file_name" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "dyn_rela_git_url" : "chandima2000/azure-data-engineering-project/refs/heads/main/datasets/AdventureWorks_Product_Subcategories.csv",
+        "dynamic_directory" : "Product_Subcategories",
+        "dynamic_file_name" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "dyn_rela_git_url" : "chandima2000/azure-data-engineering-project/refs/heads/main/datasets/AdventureWorks_Products.csv",
+        "dynamic_directory" : "AdventureWorks_Products",
+        "dynamic_file_name" : "AdventureWorks_Products.csv"
+    },
+    {
+        "dyn_rela_git_url" : "chandima2000/azure-data-engineering-project/refs/heads/main/datasets/AdventureWorks_Returns.csv",
+        "dynamic_directory" : "AdventureWorks_Returns",
+        "dynamic_file_name":"AdventureWorks_Returns.csv"
+    },
+    {
+        "dyn_rela_git_url" : "chandima2000/azure-data-engineering-project/refs/heads/main/datasets/AdventureWorks_Sales_2015.csv",
+        "dynamic_directory" : "AdventureWorks_Sales_2015",
+        "dynamic_file_name" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "dyn_rela_git_url" : "chandima2000/azure-data-engineering-project/refs/heads/main/datasets/AdventureWorks_Sales_2016.csv",
+        "dynamic_directory" : "AdventureWorks_Sales_2016",
+        "dynamic_file_name" : "AdventureWorks_Sales_2016.csv"
+    },
+    {
+        "dyn_rela_git_url" : "chandima2000/azure-data-engineering-project/refs/heads/main/datasets/AdventureWorks_Sales_2017.csv",
+        "dynamic_directory" : "AdventureWorks_Sales_2017",
+        "dynamic_file_name" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "dyn_rela_git_url" : "chandima2000/azure-data-engineering-project/refs/heads/main/datasets/AdventureWorks_Territories.csv",
+        "dynamic_directory" : "AdventureWorks_Territories",
+        "dynamic_file_name" : "AdventureWorks_Territories.csv"
+    }
+]
